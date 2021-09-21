@@ -5,6 +5,6 @@
 - pip install requests
 - pip install mechanize
 - pip install bs4 
-- git clone https://github.com/MSIN-Shanto/brfb/
-- cd brfb
+- git clone https://github.com/MSIN-Shanto/fb_brute/
+- cd fb_brute
 - python3 fb.py
